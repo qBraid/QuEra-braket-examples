@@ -14,6 +14,7 @@ Public repository for examples created by QuEra.
 - [Set notebook kernel](https://docs.qbraid.com/en/latest/lab/notebooks.html#switch-notebook-kernel) (top-right) to ``Python 3 [Braket]``
 - [Enable qBraid Quantum Jobs](https://docs.qbraid.com/en/latest/lab/quantumjobs.html#quantum-jobs) from inside the notebook with the following command:
 
+
 ```
 !qbraid jobs enable amazon_braket
 ```
