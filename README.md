@@ -5,6 +5,8 @@ Public repository for examples created by QuEra.
 
 ## Using these examples on qBraid
 
+<img width="300" align="right" alt="amazon-braket-env" src="https://github.com/qBraid/QuEra-braket-examples/assets/46977852/1ff704a6-e220-4295-aede-d62a8617be1b">
+
 ### Amazon Braket examples
 
 - Launch https://lab.qbraid.com, or click the **Launch on qBraid** button above.
@@ -15,6 +17,8 @@ Public repository for examples created by QuEra.
 ```
 !qbraid jobs enable amazon_braket
 ```
+
+<img width="300" align="right" alt="bloqade-env" src="https://github.com/qBraid/QuEra-braket-examples/assets/46977852/868f6187-d7ec-4a85-8b1e-a8e56887e9ef">
 
 ### Bloqade examples
 
